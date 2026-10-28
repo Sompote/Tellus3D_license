@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/images/tellus3d-icon.png" alt="Tellus3D logo" width="160">
+  <img src="docs/images/tellus3d-logo.png" alt="Tellus3D logo" width="520">
 </p>
 
 # Tellus3D: download and licence
