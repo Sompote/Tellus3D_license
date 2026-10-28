@@ -83,8 +83,8 @@ JSON.
 
 | System | File | Notes |
 |---|---|---|
-| macOS 11 or later, Intel or Apple Silicon | [`macos/Tellus3D-0.1.0-macos-universal.dmg`](macos/Tellus3D-0.1.0-macos-universal.dmg) | Open the DMG and drag **Tellus3D** into **Applications**. |
-| Windows 10 or 11, 64-bit | [`windows/Tellus3D-0.1.0-windows-x64.zip`](windows/Tellus3D-0.1.0-windows-x64.zip) | Unzip the folder anywhere and run `Tellus3D.exe`. Keep `tigrim.exe` beside it, because the chat assistant uses it. |
+| macOS 11 or later, Intel or Apple Silicon | [`macos/Tellus3D-0.1.2-macos-universal.dmg`](macos/Tellus3D-0.1.2-macos-universal.dmg) | Open the DMG and drag **Tellus3D** into **Applications**. |
+| Windows 10 or 11, 64-bit | [`windows/Tellus3D-0.1.2-windows-x64.zip`](windows/Tellus3D-0.1.2-windows-x64.zip) | Unzip the folder anywhere and run `Tellus3D.exe`. Keep `tigrim.exe` beside it, because the chat assistant uses it. |
 
 The programs are not signed by a registered developer, so the system warns you the first
 time. On macOS, right-click **Tellus3D** in Applications, choose **Open**, and confirm with
